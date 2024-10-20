@@ -1,7 +1,7 @@
-# Movie Recommendations
+# Loan Offers
 
 ## Project Overview
-This project builds a movie recommendation system using user ratings. The system suggests movies to users based on collaborative filtering techniques, analyzing patterns in user ratings to predict preferences.
+This project builds a model to determine candidates for loan offers.
 
 ## Requirements
 - `pandas`
